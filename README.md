@@ -14,7 +14,7 @@
 :root{
 
     /* URL DEL LOGO NIMSI */
-    --nimsi-logo: url("AQUI_PEGA_LA_URL_DE_TU_IMAGEN");
+   [ --nimsi-logo: url("AQUI_PEGA_LA_URL_DE_TU_IMAGEN");](https://github.com/Daviddelcid123/nimsi-logo.png/blob/main/Dise%C3%B1o%20navis%2C%2016%20cm%20de%20largo%20X%205%20cm%20de%20ancho.png)
 
     /* COLORES */
     --accent-purple: #b388ff;
